@@ -4,7 +4,7 @@
       <router-link to="/city/Tartu">Tartu</router-link>
     </div>
     <div class="box small">
-      <router-link to="/city/polva">Polva</router-link>
+      <router-link to="/city/põlva">Põlva</router-link>
     </div>
     <div class="box small">
       <router-link to="/city/tallinn">Tallinn</router-link>
@@ -16,10 +16,10 @@
       <router-link to="/city/hiiumaa">Hiiumaa</router-link>
     </div>
     <div class="box small">
-      <router-link to="/city/parnu">Pärnu</router-link>
+      <router-link to="/city/pärnu">Pärnu</router-link>
     </div>
     <div class="box small">
-      <router-link to="/city/voru">Võru</router-link>
+      <router-link to="/city/võru">Võru</router-link>
     </div>
     <div class="box small">
       <router-link to="/city/narva">Narva</router-link>
